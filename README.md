@@ -30,3 +30,5 @@ StudentManagementSystem/
 │── manage.py               # Django command-line utility
 │── requirements.txt        # Python dependencies
 │── README.md               # Project documentation
+
+![image](https://github.com/user-attachments/assets/25731672-40cc-4ab5-86f8-0cc7d76b8454)
